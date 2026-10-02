@@ -33,4 +33,6 @@ The test inputs are `input1.txt`, `input2.txt`, and `input3.txt`.
 
 ### Testing Screenshots
 
-![Testing Screenshot 1](./screenshots/input2.png)
+![Testing Screenshot 1](./screenshots/input1.png)
+![Testing Screenshot 2](./screenshots/input2.png)
+![Testing Screenshot 3](./screenshots/input3.png)
