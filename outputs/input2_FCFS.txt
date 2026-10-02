@@ -1,0 +1,8 @@
+FCFS:
+PID	Arrival Time	Start Time	End Time	Running Time	Waiting Time
+0	0		0		12		12		0
+1	2		12		16		4		10
+2	3		16		17		1		13
+3	4		17		19		2		13
+Average Waiting Time: 9.00
+

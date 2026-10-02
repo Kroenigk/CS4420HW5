@@ -1,0 +1,18 @@
+PID	Start Time	End Time	Running Time
+0	0		5		5
+1	5		10		5
+2	10		12		2
+3	12		13		1
+4	13		17		4
+5	17		20		3
+0	20		22		2
+RR (Time Quantum: 5):
+PID	Arrival Time	Start Time	End Time	Running Time	Waiting Time
+0	0		0		22		7		15
+1	1		5		10		5		4
+2	2		10		12		2		8
+3	3		12		13		1		9
+4	4		13		17		4		9
+5	5		17		20		3		12
+Average Waiting Time: 9.50
+

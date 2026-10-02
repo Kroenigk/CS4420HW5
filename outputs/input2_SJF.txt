@@ -1,0 +1,8 @@
+SJF:
+PID	Arrival Time	Start Time	End Time	Running Time	Waiting Time
+0	0		0		12		12		0
+2	3		12		13		1		9
+3	4		13		15		2		9
+1	2		15		19		4		13
+Average Waiting Time: 7.75
+
