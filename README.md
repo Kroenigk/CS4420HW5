@@ -19,9 +19,9 @@ This program has a Makefile to compile the executable and run all input test fil
 - To run one input file manually, use:
 
   ```sh
-  ./main input.txt FCFS 0
-  ./main input.txt RR 2
-  ./main input.txt SJF 0
+  ./main inputs/input1.txt FCFS 0
+  ./main inputs/input2.txt RR 2
+  ./main inputs/input3.txt SJF 0
   ```
 
 The third argument is only used by Round Robin; it is still required by the
