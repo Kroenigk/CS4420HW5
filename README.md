@@ -29,7 +29,7 @@ program for the other scheduling algorithms.
 
 ## Test Cases
 
-The test inputs are `input1.txt`, `input2.txt`, and `input3.txt`.
+All input files are located in the `inputs/` directory. The test inputs are `input1.txt`, `input2.txt`, and `input3.txt`.
 
 ### Testing Screenshots
 
